@@ -1,53 +1,97 @@
-Projeto Módulo 3 – Low Code/No Code/Vibecode
-📌 Desafio Escolhido
-Descreva aqui o desafio proposto pelo grupo (ex.: cadastro de usuários, automação de envio de e-mails, integração com API de IA).
+# Projeto Módulo 3 – Low Code/No Code/Vibecode
 
-🖥️ Protótipo
-Prints das telas ou link para a aplicação criada.
+## 📌 Desafio Escolhido
 
-Breve explicação de como o protótipo funciona.
+O desafio escolhido pelo grupo foi desenvolver um aplicativo educacional voltado para auxiliar estudantes em seus estudos. O aplicativo permite que os usuários criem uma conta, façam login e realizem atividades dentro da plataforma, oferecendo uma experiência prática e organizada para o aprendizado.
 
-Coloque os arquivos de imagem ou PDF na pasta /docs.
+---
 
-⚙️ Plataforma Utilizada
-Nome da plataforma (ex.: Bubble, Make, Pipedream).
+## 🖥️ Protótipo
 
-Justificativa da escolha: por que essa ferramenta foi selecionada para o desafio?
+O protótipo foi desenvolvido com foco na simplicidade e facilidade de uso para estudantes. A aplicação conta com funcionalidades de cadastro e login de usuários, além de uma área onde os alunos podem acessar e realizar atividades educacionais.
 
-✅ Vantagens Identificadas
-Liste pelo menos 3 vantagens percebidas no uso da abordagem low code/no code/vibecode:
+Breve explicação de funcionamento:
 
-Protótipo rápido
+* O usuário cria uma conta.
+* Realiza o login na plataforma.
+* Acessa as atividades disponíveis.
+* Executa as atividades diretamente no aplicativo.
 
-Integração simples
+---
 
-Automação de águia
+## ⚙️ Plataforma Utilizada
 
-⚠️Limitações Encontradas
-Liste pelo menos 3 limitações percebidas:
+**Nome da plataforma:** Hosting
 
-Personalização limitada
+**Justificativa da escolha:**
 
-Dependência da plataforma
+A plataforma foi escolhida por oferecer recursos que facilitaram o desenvolvimento do protótipo, permitindo a criação de uma aplicação funcional de forma rápida e organizada. Além disso, a ferramenta possibilitou que o grupo focasse mais nas funcionalidades e na experiência do usuário.
 
-Risco de bloqueio tecnológico
+---
 
-📚 Reflexão Crítica
-Explique como o grupo lidou com as limitações e quais soluções criativas foram propostas para contorná-las.
+## ✅ Vantagens Identificadas
 
-👥 Colaboração
-Descreva como o grupo especifica as tarefas e responsabilidades entre os integrantes.
+1. Desenvolvimento rápido do protótipo.
+2. Facilidade para criar interfaces e funcionalidades básicas.
+3. Possibilidade de testar ideias e validar o projeto rapidamente.
 
-📝 Registro da Aula
-Data: 11/05/2026
+---
 
-Atividade: Discussão crítica + miniprojeto de aplicação
+## ⚠️ Limitações Encontradas
 
-Local: Laboratório de informática / Quadro branco
+1. Dificuldade na criação da estrutura inicial do aplicativo.
+2. Limitações de personalização da plataforma utilizada.
+3. Tempo necessário para aprender algumas funcionalidades da ferramenta.
 
-Professor(a): Kadidja Valéria
+---
 
-🚀 Próximos Passos
-Melhorias sugeridas para o protótipo.
+## 📚 Reflexão Crítica
 
-Possíveis evoluções para o Projeto Final da Unidade 3.
+Durante o desenvolvimento do projeto, o grupo encontrou dificuldades principalmente na criação da estrutura inicial do aplicativo e na organização das funcionalidades. Para superar esses desafios, foram realizadas diversas pesquisas sobre desenvolvimento de aplicações educacionais e sobre os recursos da plataforma utilizada.
+
+Além disso, o grupo buscou auxílio e troca de conhecimentos com colegas de classe, o que contribuiu para encontrar soluções mais eficientes para os problemas encontrados. Com colaboração e dedicação, foi possível concluir um protótipo funcional que atende ao objetivo proposto.
+
+---
+
+## 👥 Colaboração
+
+O grupo foi composto por seis integrantes, que dividiram as tarefas da seguinte forma:
+
+* **Guilherme:** responsável pela organização do GitHub e auxílio nas pesquisas do projeto.
+* **Raí:** desenvolvimento da interface do aplicativo.
+* **Brunel:** desenvolvimento da interface do aplicativo.
+* **Luciano:** pesquisa e levantamento de informações para o projeto.
+* **Felipe:** pesquisa e levantamento de informações para o projeto.
+* **Nicole:** pesquisa e levantamento de informações para o projeto.
+
+A divisão das responsabilidades permitiu que as atividades fossem executadas de forma organizada e colaborativa.
+
+---
+
+## 📝 Registro da Aula
+
+**Data:** 11/05/2026
+
+**Atividade:** Discussão crítica + mini-projeto de aplicação
+
+**Local:** Laboratório de informática / Quadro branco
+
+**Professor(a):** Kadidja Valéria
+
+---
+
+## 🚀 Próximos Passos
+
+### Melhorias sugeridas para o protótipo
+
+* Aprimorar a interface para torná-la mais intuitiva e atrativa.
+* Adicionar novas atividades educacionais.
+* Melhorar a organização dos conteúdos de estudo.
+
+### Possíveis evoluções para o Projeto Final da Unidade 3
+
+* Desenvolver funcionalidades mais complexas.
+* Criar um sistema de acompanhamento do desempenho dos alunos.
+* Adicionar recursos de gamificação para incentivar os estudos.
+* Implementar integração com banco de dados para armazenamento permanente das informações dos usuários.
+
